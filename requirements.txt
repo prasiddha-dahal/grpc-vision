@@ -1,0 +1,4 @@
+grpcio
+grpcio-tools
+mediapipe
+opencv-python
